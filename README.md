@@ -16,7 +16,7 @@ Created a resume of my own using nothing but HTML to practice my HTML skills
         <h1>Surya Pratap Sahi</h1>
         <p><em>Currently Purssuing B.Tech CSE from <strong>Pranveer Singh Institue
               of Technology</strong></em></p>
-        <p>I am a Full Stack Web Developer , Gold badge Problem Solver
+        <p>I am a upcoming Full Stack Web Developer , Gold badge Problem Solver
           in Hackerrank and a rank holder in Google Kickstart</p>
       </td>
     </tr>
